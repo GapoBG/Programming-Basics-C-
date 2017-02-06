@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-6\Square\bin\Debug\Square.exe.config
+D:\Gapo\Test_I\HomeWork-6\Square\bin\Debug\Square.exe
+D:\Gapo\Test_I\HomeWork-6\Square\bin\Debug\Square.pdb
+D:\Gapo\Test_I\HomeWork-6\Square\obj\Debug\Square.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-6\Square\obj\Debug\Square.exe
+D:\Gapo\Test_I\HomeWork-6\Square\obj\Debug\Square.pdb

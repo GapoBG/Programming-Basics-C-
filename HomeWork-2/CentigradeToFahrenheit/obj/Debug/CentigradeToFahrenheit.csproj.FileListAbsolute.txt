@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.exe.config
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.exe
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\bin\Debug\CentigradeToFahrenheit.pdb
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.exe
+D:\Gapo\Test_I\HomeWork-2\CentigradeToFahrenheit\obj\Debug\CentigradeToFahrenheit.pdb

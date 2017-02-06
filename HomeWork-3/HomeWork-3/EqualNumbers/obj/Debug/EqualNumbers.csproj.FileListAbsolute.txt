@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\bin\Debug\EqualNumbers.exe
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\bin\Debug\EqualNumbers.pdb
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\obj\Debug\EqualNumbers.exe
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\obj\Debug\EqualNumbers.pdb
+D:\Gapo\Test_I\HomeWork-3\EqualNumbers\obj\Debug\EqualNumbers.csprojResolveAssemblyReference.cache

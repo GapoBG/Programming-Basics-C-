@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\bin\Debug\MaxNumber.exe
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\obj\Debug\MaxNumber.exe
+D:\Gapo\Test_I\HomeWork-5\MaxNumber\obj\Debug\MaxNumber.pdb

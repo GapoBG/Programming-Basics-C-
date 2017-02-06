@@ -1,0 +1,5 @@
+D:\VS.Projects_2017\HomeWork-3\NumberToText\bin\Debug\Number0._._._9toText.exe.config
+D:\VS.Projects_2017\HomeWork-3\NumberToText\bin\Debug\Number0._._._9toText.exe
+D:\VS.Projects_2017\HomeWork-3\NumberToText\bin\Debug\Number0._._._9toText.pdb
+D:\VS.Projects_2017\HomeWork-3\NumberToText\obj\Debug\Number0._._._9toText.exe
+D:\VS.Projects_2017\HomeWork-3\NumberToText\obj\Debug\Number0._._._9toText.pdb

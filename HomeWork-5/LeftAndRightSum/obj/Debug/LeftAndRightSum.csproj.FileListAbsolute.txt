@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\Gapo\Test_I\HomeWork-5\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

@@ -1,0 +1,6 @@
+D:\VS.Projects_2017\HomeWork-1\HelloWord\bin\Debug\HelloWord.exe.config
+D:\VS.Projects_2017\HomeWork-1\HelloWord\bin\Debug\HelloWord.exe
+D:\VS.Projects_2017\HomeWork-1\HelloWord\bin\Debug\HelloWord.pdb
+D:\VS.Projects_2017\HomeWork-1\HelloWord\obj\Debug\HelloWord.csprojResolveAssemblyReference.cache
+D:\VS.Projects_2017\HomeWork-1\HelloWord\obj\Debug\HelloWord.exe
+D:\VS.Projects_2017\HomeWork-1\HelloWord\obj\Debug\HelloWord.pdb

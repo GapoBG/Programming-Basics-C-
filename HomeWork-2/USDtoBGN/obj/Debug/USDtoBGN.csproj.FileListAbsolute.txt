@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\HomeWork-2\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+D:\Gapo\Test_I\HomeWork-2\USDtoBGN\bin\Debug\USDtoBGN.exe
+D:\Gapo\Test_I\HomeWork-2\USDtoBGN\bin\Debug\USDtoBGN.pdb
+D:\Gapo\Test_I\HomeWork-2\USDtoBGN\obj\Debug\USDtoBGN.exe
+D:\Gapo\Test_I\HomeWork-2\USDtoBGN\obj\Debug\USDtoBGN.pdb

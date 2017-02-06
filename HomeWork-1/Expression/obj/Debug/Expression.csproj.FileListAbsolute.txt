@@ -1,0 +1,5 @@
+D:\VS.Projects_2017\HomeWork-1\Expression\bin\Debug\Expression.exe.config
+D:\VS.Projects_2017\HomeWork-1\Expression\bin\Debug\Expression.exe
+D:\VS.Projects_2017\HomeWork-1\Expression\bin\Debug\Expression.pdb
+D:\VS.Projects_2017\HomeWork-1\Expression\obj\Debug\Expression.exe
+D:\VS.Projects_2017\HomeWork-1\Expression\obj\Debug\Expression.pdb

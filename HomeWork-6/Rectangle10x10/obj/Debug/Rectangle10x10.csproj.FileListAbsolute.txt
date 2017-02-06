@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\bin\Debug\Rectangle10x10.exe.config
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\bin\Debug\Rectangle10x10.exe
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\bin\Debug\Rectangle10x10.pdb
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\obj\Debug\Rectangle10x10.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\obj\Debug\Rectangle10x10.exe
+D:\Gapo\Test_I\HomeWork-6\Rectangle10x10\obj\Debug\Rectangle10x10.pdb

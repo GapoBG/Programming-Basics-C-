@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\bin\Debug\AreaFigura.exe.config
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\obj\Debug\AreaFigura.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\bin\Debug\AreaFigura.exe
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\bin\Debug\AreaFigura.pdb
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\obj\Debug\AreaFigura.exe
+D:\Gapo\Test_I\HomeWork-3\AreaFigura\obj\Debug\AreaFigura.pdb

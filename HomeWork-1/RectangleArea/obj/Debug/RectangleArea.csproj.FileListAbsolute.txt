@@ -1,0 +1,5 @@
+D:\VS.Projects_2017\HomeWork-1\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\VS.Projects_2017\HomeWork-1\RectangleArea\bin\Debug\RectangleArea.exe
+D:\VS.Projects_2017\HomeWork-1\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\VS.Projects_2017\HomeWork-1\RectangleArea\obj\Debug\RectangleArea.exe
+D:\VS.Projects_2017\HomeWork-1\RectangleArea\obj\Debug\RectangleArea.pdb

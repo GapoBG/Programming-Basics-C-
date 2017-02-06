@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\HomeWork-2\Trapezoida-Area\bin\Debug\Trapezoida-Area.exe.config
+D:\Gapo\Test_I\HomeWork-2\Trapezoida-Area\bin\Debug\Trapezoida-Area.exe
+D:\Gapo\Test_I\HomeWork-2\Trapezoida-Area\bin\Debug\Trapezoida-Area.pdb
+D:\Gapo\Test_I\HomeWork-2\Trapezoida-Area\obj\Debug\Trapezoida-Area.exe
+D:\Gapo\Test_I\HomeWork-2\Trapezoida-Area\obj\Debug\Trapezoida-Area.pdb

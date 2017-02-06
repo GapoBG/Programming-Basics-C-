@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Gapo\Test_I\HomeWork-4\DayOfWeek\obj\Debug\DayOfWeek.pdb

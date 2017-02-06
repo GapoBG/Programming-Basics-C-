@@ -1,0 +1,6 @@
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\bin\Debug\test.exe.config
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\bin\Debug\test.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\bin\Debug\test.pdb
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\obj\Debug\test.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-5\test\obj\Debug\test.pdb

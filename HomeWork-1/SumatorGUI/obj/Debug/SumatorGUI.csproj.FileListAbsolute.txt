@@ -1,0 +1,9 @@
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\bin\Debug\SumatorGUI.exe.config
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\bin\Debug\SumatorGUI.exe
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\bin\Debug\SumatorGUI.pdb
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.csprojResolveAssemblyReference.cache
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.FormCaclulate.resources
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.Properties.Resources.resources
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.csproj.GenerateResource.Cache
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.exe
+D:\VS.Projects_2017\HomeWork-1\SumatorGUI\obj\Debug\SumatorGUI.pdb

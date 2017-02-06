@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\bin\Debug\PointToRectangle.exe.config
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\bin\Debug\PointToRectangle.exe
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\bin\Debug\PointToRectangle.pdb
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\obj\Debug\PointToRectangle.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\obj\Debug\PointToRectangle.exe
+D:\Gapo\Test_I\HomeWork-4\PointToRectangle\obj\Debug\PointToRectangle.pdb

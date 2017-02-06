@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\HomeWork-6\RectangleNxN\bin\Debug\RectangleNxN.exe.config
+D:\Gapo\Test_I\HomeWork-6\RectangleNxN\bin\Debug\RectangleNxN.exe
+D:\Gapo\Test_I\HomeWork-6\RectangleNxN\bin\Debug\RectangleNxN.pdb
+D:\Gapo\Test_I\HomeWork-6\RectangleNxN\obj\Debug\RectangleNxN.exe
+D:\Gapo\Test_I\HomeWork-6\RectangleNxN\obj\Debug\RectangleNxN.pdb
