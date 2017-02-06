@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\bin\Debug\PrimeOrNot.exe
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\bin\Debug\PrimeOrNot.pdb
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\obj\Debug\PrimeOrNot.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+D:\Gapo\Test_I\HomeWork-7\PrimeOrNot\obj\Debug\PrimeOrNot.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\bin\Debug\SquareFrame.exe.config
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\bin\Debug\SquareFrame.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\bin\Debug\SquareFrame.pdb
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\obj\Debug\SquareFrame.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\SquareFrame\obj\Debug\SquareFrame.pdb

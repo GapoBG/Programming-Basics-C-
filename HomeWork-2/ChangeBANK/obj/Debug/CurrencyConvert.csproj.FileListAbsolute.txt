@@ -1,0 +1,12 @@
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.exe.config
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.exe
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.pdb
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\obj\Debug\CurrencyConvert.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\obj\Debug\ChangeBANK.exe
+D:\Gapo\Test_I\HomeWork-2\ChangeBANK\obj\Debug\ChangeBANK.pdb
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\obj\Debug\CurrencyConvert.csprojResolveAssemblyReference.cache
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\obj\Debug\ChangeBANK.exe
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\obj\Debug\ChangeBANK.pdb
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.exe.config
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.exe
+D:\VS.Projects_2017\HomeWork-2\ChangeBANK\bin\Debug\ChangeBANK.pdb

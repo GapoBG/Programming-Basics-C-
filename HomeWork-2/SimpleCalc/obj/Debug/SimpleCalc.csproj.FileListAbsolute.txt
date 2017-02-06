@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\bin\Debug\SimpleCalc.exe
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\bin\Debug\SimpleCalc.pdb
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\obj\Debug\SimpleCalc.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\obj\Debug\SimpleCalc.exe
+D:\Gapo\Test_I\HomeWork-2\SimpleCalc\obj\Debug\SimpleCalc.pdb

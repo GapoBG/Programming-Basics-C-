@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\bin\Debug\LastNumTo1.exe.config
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\bin\Debug\LastNumTo1.exe
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\bin\Debug\LastNumTo1.pdb
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\obj\Debug\LastNumTo1.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\obj\Debug\LastNumTo1.exe
+D:\Gapo\Test_I\HomeWork-7\LastNumTo1\obj\Debug\LastNumTo1.pdb

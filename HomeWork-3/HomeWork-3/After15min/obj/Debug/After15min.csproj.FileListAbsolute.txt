@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-3\After15min\bin\Debug\After15min.exe.config
+D:\Gapo\Test_I\HomeWork-3\After15min\bin\Debug\After15min.exe
+D:\Gapo\Test_I\HomeWork-3\After15min\bin\Debug\After15min.pdb
+D:\Gapo\Test_I\HomeWork-3\After15min\obj\Debug\After15min.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-3\After15min\obj\Debug\After15min.exe
+D:\Gapo\Test_I\HomeWork-3\After15min\obj\Debug\After15min.pdb

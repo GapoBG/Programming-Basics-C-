@@ -1,0 +1,5 @@
+D:\VS.Projects_2017\HomeWork-3\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\VS.Projects_2017\HomeWork-3\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\VS.Projects_2017\HomeWork-3\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\VS.Projects_2017\HomeWork-3\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\VS.Projects_2017\HomeWork-3\GreaterNumber\obj\Debug\GreaterNumber.pdb

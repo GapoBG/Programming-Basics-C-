@@ -1,0 +1,6 @@
+D:\VS.Projects_2017\HomeWork-2\SquareArea\bin\Debug\SquareArea.exe.config
+D:\VS.Projects_2017\HomeWork-2\SquareArea\bin\Debug\SquareArea.exe
+D:\VS.Projects_2017\HomeWork-2\SquareArea\bin\Debug\SquareArea.pdb
+D:\VS.Projects_2017\HomeWork-2\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+D:\VS.Projects_2017\HomeWork-2\SquareArea\obj\Debug\SquareArea.exe
+D:\VS.Projects_2017\HomeWork-2\SquareArea\obj\Debug\SquareArea.pdb

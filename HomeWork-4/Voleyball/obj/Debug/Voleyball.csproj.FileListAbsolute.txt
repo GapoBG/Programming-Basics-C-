@@ -1,0 +1,12 @@
+D:\Gapo\Test_I\HomeWork-4\Voleyball\bin\Debug\Voleyball.exe.config
+D:\Gapo\Test_I\HomeWork-4\Voleyball\bin\Debug\Voleyball.exe
+D:\Gapo\Test_I\HomeWork-4\Voleyball\bin\Debug\Voleyball.pdb
+D:\Gapo\Test_I\HomeWork-4\Voleyball\obj\Debug\Voleyball.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-4\Voleyball\obj\Debug\Voleyball.exe
+D:\Gapo\Test_I\HomeWork-4\Voleyball\obj\Debug\Voleyball.pdb
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\bin\Debug\Voleyball.exe.config
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\bin\Debug\Voleyball.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\bin\Debug\Voleyball.pdb
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\obj\Debug\Voleyball.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\obj\Debug\Voleyball.exe
+E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\Voleyball\obj\Debug\Voleyball.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\bin\Debug\InchToSantimeter.exe.config
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\bin\Debug\InchToSantimeter.exe
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\bin\Debug\InchToSantimeter.pdb
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\obj\Debug\InchToSantimeter.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\obj\Debug\InchToSantimeter.exe
+D:\Gapo\Test_I\HomeWork-2\InchToSantimeter\obj\Debug\InchToSantimeter.pdb
