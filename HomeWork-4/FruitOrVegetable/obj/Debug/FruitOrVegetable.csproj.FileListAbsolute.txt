@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\obj\Debug\FruitOrVegetable.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
-D:\Gapo\Test_I\HomeWork-4\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

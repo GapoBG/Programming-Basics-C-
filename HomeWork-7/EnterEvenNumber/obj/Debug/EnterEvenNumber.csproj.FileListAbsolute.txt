@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
-D:\Gapo\Test_I\HomeWork-7\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

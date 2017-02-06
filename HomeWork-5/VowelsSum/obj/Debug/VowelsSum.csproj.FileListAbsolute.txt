@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\bin\Debug\VowelsSum.exe.config
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\bin\Debug\VowelsSum.exe
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\bin\Debug\VowelsSum.pdb
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\obj\Debug\VowelsSum.exe
-D:\Gapo\Test_I\HomeWork-5\VowelsSum\obj\Debug\VowelsSum.pdb

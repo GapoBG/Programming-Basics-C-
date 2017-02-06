@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\Facturiel\bin\Debug\Facturiel.exe.config
-D:\Gapo\Test_I\HomeWork-7\Facturiel\bin\Debug\Facturiel.exe
-D:\Gapo\Test_I\HomeWork-7\Facturiel\bin\Debug\Facturiel.pdb
-D:\Gapo\Test_I\HomeWork-7\Facturiel\obj\Debug\Facturiel.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-7\Facturiel\obj\Debug\Facturiel.exe
-D:\Gapo\Test_I\HomeWork-7\Facturiel\obj\Debug\Facturiel.pdb

@@ -1,6 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\bin\Debug\MetricConverter.exe.config
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\bin\Debug\MetricConverter.exe
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\bin\Debug\MetricConverter.pdb
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\obj\Debug\MetricConverter.exe
-D:\VS.Projects_2017\HomeWork-3\MetricConverter\obj\Debug\MetricConverter.pdb

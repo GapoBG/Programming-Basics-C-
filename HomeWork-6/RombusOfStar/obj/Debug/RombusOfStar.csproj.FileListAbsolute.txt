@@ -1,5 +1,0 @@
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\RombusOfStar\bin\Debug\RombusOfStar.exe.config
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\RombusOfStar\bin\Debug\RombusOfStar.exe
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\RombusOfStar\bin\Debug\RombusOfStar.pdb
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\RombusOfStar\obj\Debug\RombusOfStar.exe
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\RombusOfStar\obj\Debug\RombusOfStar.pdb

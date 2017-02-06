@@ -1,6 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\EqualWords\bin\Debug\EqualWords.exe.config
-D:\VS.Projects_2017\HomeWork-3\EqualWords\bin\Debug\EqualWords.exe
-D:\VS.Projects_2017\HomeWork-3\EqualWords\bin\Debug\EqualWords.pdb
-D:\VS.Projects_2017\HomeWork-3\EqualWords\obj\Debug\EqualWords.csprojResolveAssemblyReference.cache
-D:\VS.Projects_2017\HomeWork-3\EqualWords\obj\Debug\EqualWords.exe
-D:\VS.Projects_2017\HomeWork-3\EqualWords\obj\Debug\EqualWords.pdb

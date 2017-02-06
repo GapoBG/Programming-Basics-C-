@@ -1,5 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
-D:\VS.Projects_2017\HomeWork-3\EvenOrOdd\bin\Debug\EvenOrOdd.exe
-D:\VS.Projects_2017\HomeWork-3\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
-D:\VS.Projects_2017\HomeWork-3\EvenOrOdd\obj\Debug\EvenOrOdd.exe
-D:\VS.Projects_2017\HomeWork-3\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

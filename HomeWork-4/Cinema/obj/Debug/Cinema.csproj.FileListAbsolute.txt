@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\Cinema\bin\Debug\Cinema.exe.config
-D:\Gapo\Test_I\HomeWork-4\Cinema\bin\Debug\Cinema.exe
-D:\Gapo\Test_I\HomeWork-4\Cinema\bin\Debug\Cinema.pdb
-D:\Gapo\Test_I\HomeWork-4\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\Cinema\obj\Debug\Cinema.exe
-D:\Gapo\Test_I\HomeWork-4\Cinema\obj\Debug\Cinema.pdb

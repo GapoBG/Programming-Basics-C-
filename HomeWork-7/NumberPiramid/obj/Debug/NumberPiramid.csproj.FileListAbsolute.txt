@@ -1,5 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\NumberPiramid\bin\Debug\NumberPiramid.exe.config
-D:\Gapo\Test_I\HomeWork-7\NumberPiramid\bin\Debug\NumberPiramid.exe
-D:\Gapo\Test_I\HomeWork-7\NumberPiramid\bin\Debug\NumberPiramid.pdb
-D:\Gapo\Test_I\HomeWork-7\NumberPiramid\obj\Debug\NumberPiramid.exe
-D:\Gapo\Test_I\HomeWork-7\NumberPiramid\obj\Debug\NumberPiramid.pdb

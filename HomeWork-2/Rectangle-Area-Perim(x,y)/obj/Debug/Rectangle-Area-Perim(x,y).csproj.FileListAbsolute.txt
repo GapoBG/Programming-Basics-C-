@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\bin\Debug\Rectangle-Area-Perim(x,y).exe.config
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\bin\Debug\Rectangle-Area-Perim(x,y).exe
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\bin\Debug\Rectangle-Area-Perim(x,y).pdb
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\obj\Debug\Rectangle-Area-Perim(x,y).csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\obj\Debug\Rectangle-Area-Perim(x,y).exe
-D:\Gapo\Test_I\HomeWork-2\Rectangle-Area-Perim(x,y)\obj\Debug\Rectangle-Area-Perim(x,y).pdb

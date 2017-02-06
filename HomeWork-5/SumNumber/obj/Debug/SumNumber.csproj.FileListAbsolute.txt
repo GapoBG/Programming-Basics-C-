@@ -1,5 +1,0 @@
-D:\Gapo\Test_I\HomeWork-5\SumNumber\bin\Debug\SumNumber.exe.config
-D:\Gapo\Test_I\HomeWork-5\SumNumber\bin\Debug\SumNumber.exe
-D:\Gapo\Test_I\HomeWork-5\SumNumber\bin\Debug\SumNumber.pdb
-D:\Gapo\Test_I\HomeWork-5\SumNumber\obj\Debug\SumNumber.exe
-D:\Gapo\Test_I\HomeWork-5\SumNumber\obj\Debug\SumNumber.pdb

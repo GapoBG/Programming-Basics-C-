@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\bin\Debug\CoffeeBuisnes.exe.config
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\bin\Debug\CoffeeBuisnes.exe
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\bin\Debug\CoffeeBuisnes.pdb
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\obj\Debug\CoffeeBuisnes.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\obj\Debug\CoffeeBuisnes.exe
-D:\Gapo\Test_I\HomeWork-4\CoffeeBuisnes\obj\Debug\CoffeeBuisnes.pdb

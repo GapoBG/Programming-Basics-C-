@@ -1,5 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\Number1toNstep3\bin\Debug\Number1toNstep3.exe.config
-D:\Gapo\Test_I\HomeWork-7\Number1toNstep3\bin\Debug\Number1toNstep3.exe
-D:\Gapo\Test_I\HomeWork-7\Number1toNstep3\bin\Debug\Number1toNstep3.pdb
-D:\Gapo\Test_I\HomeWork-7\Number1toNstep3\obj\Debug\Number1toNstep3.exe
-D:\Gapo\Test_I\HomeWork-7\Number1toNstep3\obj\Debug\Number1toNstep3.pdb

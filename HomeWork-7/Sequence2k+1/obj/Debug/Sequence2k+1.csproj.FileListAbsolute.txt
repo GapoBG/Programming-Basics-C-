@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\bin\Debug\Sequence2k+1.exe.config
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\bin\Debug\Sequence2k+1.exe
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\bin\Debug\Sequence2k+1.pdb
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\obj\Debug\Sequence2k+1.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\obj\Debug\Sequence2k+1.exe
-D:\Gapo\Test_I\HomeWork-7\Sequence2k+1\obj\Debug\Sequence2k+1.pdb

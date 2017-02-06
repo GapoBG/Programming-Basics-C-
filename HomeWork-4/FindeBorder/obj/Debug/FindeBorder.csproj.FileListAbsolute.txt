@@ -1,9 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\bin\Debug\FindeBorder.exe.config
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\bin\Debug\FindeBorder.exe
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\bin\Debug\FindeBorder.pdb
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.exe
-D:\Gapo\Test_I\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.pdb
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.csprojResolveAssemblyReference.cache
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.exe
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-4\FindeBorder\obj\Debug\FindeBorder.pdb

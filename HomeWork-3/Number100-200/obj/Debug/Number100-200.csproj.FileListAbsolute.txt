@@ -1,5 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\Number100-200\bin\Debug\Number100-200.exe.config
-D:\VS.Projects_2017\HomeWork-3\Number100-200\bin\Debug\Number100-200.exe
-D:\VS.Projects_2017\HomeWork-3\Number100-200\bin\Debug\Number100-200.pdb
-D:\VS.Projects_2017\HomeWork-3\Number100-200\obj\Debug\Number100-200.exe
-D:\VS.Projects_2017\HomeWork-3\Number100-200\obj\Debug\Number100-200.pdb

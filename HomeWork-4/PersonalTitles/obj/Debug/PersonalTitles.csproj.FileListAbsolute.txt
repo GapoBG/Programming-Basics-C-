@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\bin\Debug\PersonalTitles.exe.config
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\bin\Debug\PersonalTitles.exe
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\bin\Debug\PersonalTitles.pdb
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\obj\Debug\PersonalTitles.exe
-D:\Gapo\Test_I\HomeWork-4\PersonalTitles\obj\Debug\PersonalTitles.pdb

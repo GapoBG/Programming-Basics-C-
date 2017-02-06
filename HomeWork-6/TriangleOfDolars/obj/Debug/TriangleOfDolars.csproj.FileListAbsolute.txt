@@ -1,6 +1,0 @@
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\bin\Debug\TriangleOfDolars.exe.config
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\bin\Debug\TriangleOfDolars.exe
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\bin\Debug\TriangleOfDolars.pdb
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\obj\Debug\TriangleOfDolars.csprojResolveAssemblyReference.cache
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\obj\Debug\TriangleOfDolars.exe
-E:\SoftUni\0.Programming Basics\HomeWORK\HomeWork-6\TriangleOfDolars\obj\Debug\TriangleOfDolars.pdb

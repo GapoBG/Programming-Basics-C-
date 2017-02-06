@@ -1,9 +1,0 @@
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\bin\Debug\BGNtoEURO(GUI).exe.config
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\bin\Debug\BGNtoEURO(GUI).exe
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\bin\Debug\BGNtoEURO(GUI).pdb
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO(GUI).csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO_GUI_.Form1.resources
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO_GUI_.Properties.Resources.resources
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO(GUI).csproj.GenerateResource.Cache
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO(GUI).exe
-D:\Gapo\Test_I\HomeWork-2\BGNtoEURO(GUI)\obj\Debug\BGNtoEURO(GUI).pdb

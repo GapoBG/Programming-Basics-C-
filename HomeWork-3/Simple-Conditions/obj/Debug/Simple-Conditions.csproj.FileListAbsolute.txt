@@ -1,5 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\Simple-Conditions\bin\Debug\Simple-Conditions.exe.config
-D:\VS.Projects_2017\HomeWork-3\Simple-Conditions\bin\Debug\Simple-Conditions.exe
-D:\VS.Projects_2017\HomeWork-3\Simple-Conditions\bin\Debug\Simple-Conditions.pdb
-D:\VS.Projects_2017\HomeWork-3\Simple-Conditions\obj\Debug\Simple-Conditions.exe
-D:\VS.Projects_2017\HomeWork-3\Simple-Conditions\obj\Debug\Simple-Conditions.pdb

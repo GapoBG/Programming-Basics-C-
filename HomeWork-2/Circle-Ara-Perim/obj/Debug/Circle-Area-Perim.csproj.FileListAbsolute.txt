@@ -1,5 +1,0 @@
-D:\Gapo\Test_I\HomeWork-2\Circle-Ara-Perim\bin\Debug\Circle-Ara-Perim.exe.config
-D:\Gapo\Test_I\HomeWork-2\Circle-Ara-Perim\bin\Debug\Circle-Ara-Perim.exe
-D:\Gapo\Test_I\HomeWork-2\Circle-Ara-Perim\bin\Debug\Circle-Ara-Perim.pdb
-D:\Gapo\Test_I\HomeWork-2\Circle-Ara-Perim\obj\Debug\Circle-Ara-Perim.exe
-D:\Gapo\Test_I\HomeWork-2\Circle-Ara-Perim\obj\Debug\Circle-Ara-Perim.pdb

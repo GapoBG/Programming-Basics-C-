@@ -1,6 +1,0 @@
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\bin\Debug\SumSeconds.exe.config
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\bin\Debug\SumSeconds.exe
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\bin\Debug\SumSeconds.pdb
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\obj\Debug\SumSeconds.exe
-D:\VS.Projects_2017\HomeWork-3\SumSeconds\obj\Debug\SumSeconds.pdb

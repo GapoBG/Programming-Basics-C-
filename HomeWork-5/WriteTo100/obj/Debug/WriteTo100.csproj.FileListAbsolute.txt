@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\bin\Debug\WriteTo100.exe.config
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\bin\Debug\WriteTo100.exe
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\bin\Debug\WriteTo100.pdb
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\obj\Debug\WriteTo100.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\obj\Debug\WriteTo100.exe
-D:\Gapo\Test_I\HomeWork-5\WriteTo100\obj\Debug\WriteTo100.pdb

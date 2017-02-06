@@ -1,5 +1,0 @@
-D:\Gapo\Test_I\HomeWork-7\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
-D:\Gapo\Test_I\HomeWork-7\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
-D:\Gapo\Test_I\HomeWork-7\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
-D:\Gapo\Test_I\HomeWork-7\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
-D:\Gapo\Test_I\HomeWork-7\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

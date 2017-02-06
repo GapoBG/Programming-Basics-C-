@@ -1,6 +1,0 @@
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\bin\Debug\ShopPriceWeek.exe.config
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\bin\Debug\ShopPriceWeek.exe
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\bin\Debug\ShopPriceWeek.pdb
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\obj\Debug\ShopPriceWeek.csprojResolveAssemblyReference.cache
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\obj\Debug\ShopPriceWeek.exe
-D:\Gapo\Test_I\HomeWork-4\ShopPriceWeek\obj\Debug\ShopPriceWeek.pdb
